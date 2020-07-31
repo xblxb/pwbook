@@ -1,4 +1,5 @@
 # pwbook
+<<<<<<< HEAD
 
 > A Vue.js project
 
@@ -19,3 +20,6 @@ npm run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+坪外通讯录-改通讯录JSON即可
+>>>>>>> a4253b5b0cf486a5933f160f191466fd45fad1f1
